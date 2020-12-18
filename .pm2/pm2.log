@@ -1,0 +1,81 @@
+2020-12-18T03:17:29: PM2 log: ===============================================================================
+2020-12-18T03:17:29: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-12-18T03:17:29: PM2 log: Time                 : Fri Dec 18 2020 03:17:29 GMT+0000 (Coordinated Universal Time)
+2020-12-18T03:17:29: PM2 log: PM2 version          : 4.5.1
+2020-12-18T03:17:29: PM2 log: Node.js version      : 15.4.0
+2020-12-18T03:17:29: PM2 log: Current arch         : x64
+2020-12-18T03:17:29: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2020-12-18T03:17:29: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2020-12-18T03:17:29: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2020-12-18T03:17:29: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2020-12-18T03:17:29: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2020-12-18T03:17:29: PM2 log: Worker Interval      : 30000
+2020-12-18T03:17:29: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2020-12-18T03:17:29: PM2 log: Concurrent actions   : 2
+2020-12-18T03:17:29: PM2 log: SIGTERM timeout      : 1600
+2020-12-18T03:17:29: PM2 log: ===============================================================================
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:29: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] starting in -fork mode-
+2020-12-18T03:17:30: PM2 log: App [lavalink:0] online
+2020-12-18T03:17:31: PM2 log: App [lavalink:0] exited with code [1] via signal [SIGINT]
+2020-12-18T03:17:31: PM2 log: Script /home/ubuntu/Lavalink.jar had too many unstable restarts (16). Stopped. "errored"
+2020-12-18T03:21:56: PM2 log: App [Lavalink:1] starting in -fork mode-
+2020-12-18T03:21:56: PM2 log: App [Lavalink:1] online
+2020-12-18T03:28:59: PM2 log: App [DiscordBot:2] starting in -fork mode-
+2020-12-18T03:28:59: PM2 log: App [DiscordBot:2] online
+2020-12-18T03:46:28: PM2 log: Stopping app:DiscordBot id:2
+2020-12-18T03:46:28: PM2 log: App [DiscordBot:2] exited with code [0] via signal [SIGINT]
+2020-12-18T03:46:28: PM2 log: pid=27290 msg=process killed
+2020-12-18T03:46:28: PM2 log: App [DiscordBot:2] starting in -fork mode-
+2020-12-18T03:46:28: PM2 log: App [DiscordBot:2] online
+2020-12-18T03:46:55: PM2 log: Stopping app:lavalink id:0
+2020-12-18T03:46:55: PM2 error: app=lavalink id=0 does not have a pid
+2020-12-18T03:48:11: PM2 log: Stopping app:DiscordBot id:2
+2020-12-18T03:48:11: PM2 log: App [DiscordBot:2] exited with code [0] via signal [SIGINT]
+2020-12-18T03:48:11: PM2 log: pid=27803 msg=process killed
+2020-12-18T03:48:22: PM2 log: App [DiscordBot:3] starting in -fork mode-
+2020-12-18T03:48:22: PM2 log: App [DiscordBot:3] online

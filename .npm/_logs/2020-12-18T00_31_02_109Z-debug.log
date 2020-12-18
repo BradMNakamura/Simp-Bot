@@ -1,0 +1,30 @@
+0 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run', 'package' ]
+1 info using npm@7.0.15
+2 info using node@v15.4.0
+3 timing config:load:defaults Completed in 1ms
+4 timing config:load:file:/usr/lib/node_modules/npm/npmrc Completed in 0ms
+5 timing config:load:builtin Completed in 0ms
+6 timing config:load:cli Completed in 2ms
+7 timing config:load:env Completed in 0ms
+8 timing config:load:project Completed in 1ms
+9 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+10 timing config:load:user Completed in 0ms
+11 timing config:load:file:/usr/etc/npmrc Completed in 0ms
+12 timing config:load:global Completed in 0ms
+13 timing config:load:cafile Completed in 0ms
+14 timing config:load:validate Completed in 0ms
+15 timing config:load:setUserAgent Completed in 1ms
+16 timing config:load:setEnvs Completed in 1ms
+17 timing config:load Completed in 7ms
+18 verbose npm-session 833fafb92e066c32
+19 timing npm:load Completed in 17ms
+20 timing command:run-script Completed in 2ms
+21 verbose stack Error: missing script: package
+21 verbose stack     at runScript (/usr/lib/node_modules/npm/lib/run-script.js:54:11)
+22 verbose cwd /home/ubuntu
+23 verbose Linux 5.4.0-1029-aws
+24 verbose argv "/usr/bin/node" "/usr/bin/npm" "run" "package"
+25 verbose node v15.4.0
+26 verbose npm  v7.0.15
+27 error missing script: package
+28 verbose exit 1

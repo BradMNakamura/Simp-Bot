@@ -1,0 +1,17 @@
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f883b7c6eb0>
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f883b788b80>, 19168.165804008)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f883b7c6fd0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f7675588ee0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f7677106a60>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiohttp/client_reqrep.py", line 757, in __del__
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiohttp/connector.py", line 177, in release
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiohttp/connector.py", line 629, in _release
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiohttp/client_proto.py", line 62, in close
+  File "/usr/lib/python3.8/asyncio/selector_events.py", line 690, in close
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed

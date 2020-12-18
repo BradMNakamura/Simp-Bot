@@ -1,0 +1,17 @@
+(node:26191) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:26198) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/home/ubuntu/main.py:1
+import os
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (node:internal/modules/cjs/loader:1024:16)
+    at Module._compile (node:internal/modules/cjs/loader:1072:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+error: Forever detected script exited with code: 1

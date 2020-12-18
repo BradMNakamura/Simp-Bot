@@ -1,0 +1,9 @@
+(node:26274) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+[NODE-na-0.0.0.0:5000] Disconnected with code None and reason None
+Unable to move players, no available nodes! Waiting for a node to become available.
+[NODE-na-0.0.0.0:5000] Invalid response received; this may indicate that Lavalink is not running, or is running on a port different to the one you passed to `add_node`.
+[NODE-na-0.0.0.0:5000] Invalid response received; this may indicate that Lavalink is not running, or is running on a port different to the one you passed to `add_node`.
+[NODE-na-0.0.0.0:5000] Invalid response received; this may indicate that Lavalink is not running, or is running on a port different to the one you passed to `add_node`.
+[NODE-na-0.0.0.0:5000] A WebSocket connection could not be established within 3 attempts.
+error: Forever detected script was killed by signal: SIGKILL
