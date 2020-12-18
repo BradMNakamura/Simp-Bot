@@ -224,3 +224,36 @@ python3 -m forever.run python3 -u -m main.py
 forever
 forever list
 pm2 start main.py --name DiscordBot --interpreter="python3" -- -py
+ls
+pm2
+pm2 -h
+pm2 -m -minilist
+pm2 -m --mini-list 
+ls
+pip uninstall forever
+pm2 ls
+pm2 restart DiscordBot
+pm2 delete lavalink
+@commands.command()   async def shutdown(self,ctx):
+pm2 delete DiscordBot
+pm2 start main.py --name DiscordBot --interpreter="python3" -- -py
+forever
+forever list
+forever stop main.py
+pm2 cd
+pm2 ls
+git add .
+git
+git config --global user.name "Brad Nakamura"
+git config --global user.email "bradmnakamura@gmail.com"
+git add .
+cat
+cat .git/config
+ls
+git add .
+git status
+.git
+git init
+git add .
+git status
+git commit .
